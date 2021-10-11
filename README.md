@@ -28,7 +28,7 @@ Talk with him, and have a good experience with badger!
 * Welcome message
 # ![](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/welcome.PNG)
 * Memes
-# ![](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/memeandjoke.PNG)
+# ![](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/memeandjokes.PNG)
 * Games 
 # ![](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/games.PNG?raw=true)
 * Many more features invite, to your server and use command `~help` to explore more
