@@ -1,7 +1,7 @@
 
 #                                       Badger
 
-Badger created to engage individuals on Discord, voice and text based user interaction both are the core feature of this bot, add it to your server to explore what can I do to entertain people. It is verified bot by discord click to see ![verified badge](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/verified.PNG?raw=true).
+Badger created to engage individuals on Discord, voice and text based user interaction both are the core feature of this bot, add it to your server to explore what can I do to entertain people. It is verified bot by discord ![verified badge](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/verified.PNG?raw=true), Used by more than 150 discord servers.
 Use `~vchat` command to communicate with bot in voice channel and say hi and it will reply you with greetings or you can ask [what is the today's temperature of New Delhi](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/temp.PNG) or say play some music or simply say the [`play <song's name>`](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/music.PNG).
 
 ## Features --->
@@ -34,4 +34,12 @@ Talk with him, and have a good experience with badger!
 * Many more features invite, to your server and use command `~help` to explore more
 # ![](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/1.PNG)
 
+## Deployed on heroku cloud platform
+Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
 
+## Installing depencencies and running the app
+* Fork the repository
+* Clone the repository
+* get configured all keys and vars as i mentioned in [`config.json`](https://github.com/GreaZeY/badger-discord-bot/blob/main/config.json) and [`greazeybot.json`](https://github.com/GreaZeY/badger-discord-bot/blob/main/greazeybot.json)
+* Install the dependencies by `npm install`
+* Run in development mode by `node .`
