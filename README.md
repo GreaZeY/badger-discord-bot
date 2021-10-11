@@ -31,19 +31,19 @@ Talk with him, and have a good experience with badger!
 
 ## Screenshots :
 * AI based user Interaction
-# ![1](https://media.discordapp.net/attachments/804076014282997840/812109755547910174/unknown.png?width=596&height=701)
+# ![111](https://media.discordapp.net/attachments/804076014282997840/812109755547910174/unknown.png?width=596&height=701)
 * Modmail
-# ![2](https://media.discordapp.net/attachments/804076014282997840/811972448312492072/unknown.png?width=529&height=525)
+# ![222](https://media.discordapp.net/attachments/804076014282997840/811972448312492072/unknown.png?width=529&height=525)
 * Music
-# ![3](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/music.PNG)
+# ![333](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/music.PNG)
 * Welcome message
-# ![4](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/welcome.PNG)
+# ![444](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/welcome.PNG)
 * Memes
-# ![5](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/memeandjokes.PNG)
+# ![555](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/memeandjokes.PNG)
 * Games 
-# ![6](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/games.PNG?raw=true)
+# ![666](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/games.PNG?raw=true)
 * Many more features invite, to your server and use command `~help` to explore more
-# ![7](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/1.PNG)
+# ![777](https://raw.githubusercontent.com/GreaZeY/badger-discord-bot/main/screenshots/1.PNG)
 
 ## Deployed on heroku cloud platform
 Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
