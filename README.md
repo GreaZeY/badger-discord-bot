@@ -19,13 +19,12 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 Talk with him, and have a good experience with badger!
 
 ## Technologies used
-* NodeJS
-* Discord.js
-* Discord Player
-* IBM Watson
-* Google TTS
-* Dialogflow
-* MongoDB
+* [NodeJS](https://nodejs.org/en/)
+* [Discord.js](https://discord.js.org/#/)
+* [IBM Watson](https://www.ibm.com/in-en/watson)
+* [Google TTS](https://cloud.google.com/text-to-speech)
+* [Dialogflow](https://dialogflow.cloud.google.com/)
+* [MongoDB](https://www.mongodb.com/cloud/atlas)
 * Some api from rapid api for some of the features.
 
 
