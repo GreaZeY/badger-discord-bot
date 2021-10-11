@@ -30,7 +30,7 @@ Talk with him, and have a good experience with badger!
 
 
 ## Screenshots :
-### * AI based user Interaction
+* ####  AI based user Interaction
 # ![abui](https://media.discordapp.net/attachments/804076014282997840/812109755547910174/unknown.png?width=596&height=701)
 * Modmail
 # ![222](https://media.discordapp.net/attachments/804076014282997840/811972448312492072/unknown.png?width=529&height=525)
