@@ -6,8 +6,8 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 
 ## Features --->
 
-* Voice based Interaction
-* AI based user Interaction
+* [Voice based Interaction](https://github.com/GreaZeY/badger-discord-bot#)
+* [AI based user Interaction](https://github.com/GreaZeY/badger-discord-bot#)
 * Modmail
 * Music
 * TTS
@@ -17,6 +17,17 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 * Add this bot to your server and type ~help or ~h in any channel of your discord server and then check your DM for more information about Commands and the setup of this bot.
 
 Talk with him, and have a good experience with badger!
+
+## Technologies used
+* NodeJS
+* Discord.js
+* Discord Player
+* IBM Watson
+* Google TTS
+* Dialogflow
+* MongoDB
+* Some api from rapid api for some of the features.
+
 
 ## Screenshots :
 * AI based user Interaction
