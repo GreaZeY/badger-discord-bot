@@ -6,8 +6,8 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 
 ## Features --->
 
-* AI based user Interaction (used dialogflow)
-* Voice based Interaction (same as previous feature but in voice used google text-to-speech)
+* Voice based Interaction
+* AI based user Interaction
 * Modmail
 * Music
 * TTS
@@ -19,7 +19,8 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 Talk with him, and have a good experience with badger!
 
 ## Screenshots :
+* AI based user Interaction
+[](https://media.discordapp.net/attachments/804076014282997840/812109755547910174/unknown.png?width=596&height=701)
 
-![AI based user Interaction](https://media.discordapp.net/attachments/804076014282997840/812109755547910174/unknown.png?width=596&height=701)
-![Modmail](https://user-images.githubusercontent.com/65029559/136782483-0543b50e-255a-4f3f-aa7f-bae3fde52581.png)
-
+* Modmail
+[](https://media.discordapp.net/attachments/804076014282997840/811972448312492072/unknown.png?width=529&height=525)
