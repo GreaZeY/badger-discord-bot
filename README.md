@@ -16,7 +16,7 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 * [Images and more...](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#-5)
  
  Add this bot to your server and type ~help or ~h in any channel of your discord server and then check your DM for more information about Commands and the setup of this bot.
- Talk with him, and have a good experience with badger!
+ Talk with him, and have a good experience with badger.
 
 ## Technologies used
 * [NodeJS](https://nodejs.org/en/)
