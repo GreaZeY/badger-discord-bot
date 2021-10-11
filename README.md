@@ -6,8 +6,8 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 
 ## Features --->
 
-* [Voice based Interaction](https://github.com/GreaZeY/badger-discord-bot# )
-* [AI based user Interaction](https://github.com/GreaZeY/badger-discord-bot# )
+* [Voice based Interaction](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#ai-based-user-interaction)
+* [AI based user Interaction](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#ai-based-user-interaction)
 * [Modmail](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#-1)
 * [Music](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#-2)
 * TTS
