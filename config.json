@@ -1,7 +1,7 @@
 {
   "prefix": "~",
   "token": "YOUR_Discord_Bot_Token",
-  "GOOGLE_API_KEY": "YOUR_Key"
+  "GOOGLE_API_KEY": "YOUR_Key",
   "mongoURI" : "YOUR_Mongo_URI",
   "amethyste": "get your key from here https://www.npmjs.com/package/amethyste-api",
   "IBM_key": "Generate your ibm watson key from ibm cloud",
