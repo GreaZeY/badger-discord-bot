@@ -5,6 +5,7 @@
 Use `~vchat` command to communicate with bot in voice channel and say hi and it will reply you with greetings or you can ask [what is the today's temperature of New Delhi](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/temp.PNG) or say play some music or simply say the [`play <song's name>`](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/music.PNG).
 
 [Invite badger](https://top.gg/bot/609713401777618965/invite)
+
 It is also listed on [`top.gg`](https://top.gg/) platform [click to see page](https://top.gg/bot/609713401777618965)
 ## Features(click them to see examples in screenshots) --->
 
