@@ -4,7 +4,7 @@
 [Badger](https://top.gg/bot/609713401777618965) created to engage individuals on Discord, voice and text based user interaction both are the core feature of this bot, add it to your server to explore what can I do to entertain people. It is verified bot by discord click to see [verified badge](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/verified.PNG?raw=true), Used by more than `150 discord servers`.
 Use `~vchat` command to communicate with bot in voice channel and say hi and it will reply you with greetings or you can ask [what is the today's temperature of New Delhi](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/temp.PNG) or say play some music or simply say the [`play <song's name>`](https://github.com/GreaZeY/badger-discord-bot/blob/main/screenshots/music.PNG).
 
-##### It is also listed on [top.gg](https://top.gg/) platform [click to see page](https://top.gg/bot/609713401777618965)
+##### It is also listed on `[top.gg](https://top.gg/) platform` [click to see page](https://top.gg/bot/609713401777618965)
 ## Features --->
 
 * [Voice based Interaction](https://github.com/GreaZeY/badger-discord-bot/blob/main/README.md#ai-based-user-interaction)
