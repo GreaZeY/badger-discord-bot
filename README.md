@@ -26,7 +26,7 @@ Use `~vchat` command to communicate with bot in voice channel and say hi and it 
 * [Google TTS](https://cloud.google.com/text-to-speech)
 * [Dialogflow](https://dialogflow.cloud.google.com/)
 * [MongoDB](https://www.mongodb.com/cloud/atlas)
-* Some api from rapid api for some of the features.
+* Some api from rapid api for some of the features(like getting random joke and memes and temperatures of cities).
 
 
 ## Screenshots :
