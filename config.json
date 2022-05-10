@@ -6,5 +6,5 @@
   "amethyste": "get your key from here https://www.npmjs.com/package/amethyste-api",
   "IBM_key": "Generate your ibm watson key from ibm cloud",
   "IBM_url" : "you will get url alongside the key",
-  "weather_api" : "got key from open-weather api"
+  "weather_api" : "get key from open-weather api"
 }
